@@ -9,4 +9,7 @@ This document is your gateway to mastering Python fundamentals. Each program her
 
 ### **1️⃣ Write a program to enter two integers and then perform all arithmatic operations on them**  
 
+### **2️⃣ Repeat the program in Question 1 using floating point numbers**  
+
+
 
